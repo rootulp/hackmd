@@ -1,3 +1,3 @@
 # hackmd
 
-This repo contains notes published to [https://hackmd.io](https://hackmd.io)
+This repo contains notes that are synced with [https://hackmd.io/@rootulp](https://hackmd.io/@rootulp).
