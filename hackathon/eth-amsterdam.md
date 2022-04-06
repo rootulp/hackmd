@@ -13,3 +13,8 @@ Use [Superfluid](https://www.superfluid.finance/home) and stream testnet ETH to 
 
 ## CLI for blocknative gas estimator
 CLI for [blocknative gas estimator](https://www.blocknative.com/gas-estimator)
+
+## Cross layer 2 bridge
+- Point of contact: @blockdev
+- https://notes.ethereum.org/@vbuterin/cross_layer_2_bridges#Destination-domain-side-smart-contract
+- https://ethresear.ch/t/cross-rollup-nft-wrapper-and-migration-ideas/10507
