@@ -18,3 +18,9 @@ CLI for [blocknative gas estimator](https://www.blocknative.com/gas-estimator)
 - Point of contact: @blockdev
 - https://notes.ethereum.org/@vbuterin/cross_layer_2_bridges#Destination-domain-side-smart-contract
 - https://ethresear.ch/t/cross-rollup-nft-wrapper-and-migration-ideas/10507
+
+## Warp workflow for Foundry
+- The [Warp](https://www.warp.dev/) terminal supports community contributed
+  [workflows](https://docs.warp.dev/features/workflows)
+- Let's add a workflow spec to https://github.com/warpdotdev/workflows with the
+  common `forge` / `cast` command
