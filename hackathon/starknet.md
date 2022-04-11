@@ -1,4 +1,4 @@
-# Starknet
+# Starknet Hackathon
 
 Hackathon project ideas for [Starknet Hackathon Amsterdam](https://starknet.io/latest-updates/starknet-hackathon-amsterdam/)
 
