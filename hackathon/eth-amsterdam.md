@@ -3,7 +3,10 @@
 Hackathon project ideas for [EthAmsterdam](https://amsterdam.ethglobal.com/)
 
 ## Flipper x CRISP
-Use [Flipper](https://github.com/Anish-Agnihotri/flipper) to download an existing NFT collection (ex. [nouns](https://nouns.wtf/)) and flip images. Then list them via [CRISP](https://github.com/FrankieIsLost/CRISP) targetting a one sale per day rate. Maybe create an easy front-end to mint from via [midwit](https://midwit.vercel.app).
+Use [Flipper](https://github.com/Anish-Agnihotri/flipper) to download an existing NFT collection (ex. [nouns](https://nouns.wtf/)) and flip images. Then list them via [CRISP](https://github.com/FrankieIsLost/CRISP) targetting a one sale per day rate. 
+
+- Reference https://www.paradigm.xyz/2022/01/constant-rate-issuance-sales-protocol
+- [Optional] Create an easy front-end to mint from via [midwit](https://midwit.vercel.app)
 
 ## Next.js template for Sign-in with Ethereum
 [Next.js](https://nextjs.org/) template for [Sign-in with Ethereum](https://docs.login.xyz/). Must be fork-able with great README steps
