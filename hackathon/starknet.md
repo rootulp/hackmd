@@ -15,3 +15,4 @@ Post transaction data from Starknet blocks to a [Celestia](https://celestia.org/
 
 ## Front-end for Starknet-Cairo-101
 Create an [Ethernaut](https://ethernaut.openzeppelin.com/) inspired front-end for: https://github.com/starknet-edu/starknet-cairo-101
+- [Optional] Create a leaderboard
